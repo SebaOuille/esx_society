@@ -1,4 +1,4 @@
-USE `es_extended`;
+USE `https://github.com/ElNelyo/esx_discord_bot.git`;
 
 CREATE TABLE `society_moneywash` (
 	`id` int NOT NULL AUTO_INCREMENT,
